@@ -36,4 +36,4 @@ python3 evaluation.py
 Obtain the dataset from [Transparent-460](https://github.com/AceCHQ/TransMatting) and [UHR-395](https://github.com/linyiheng123/MEMatte). 
 
 ## Acknowledgment
-This repo borrows code from several repos, like [MEMatte](https://github.com/linyiheng123/MEMatte)
+This repo borrows code from several repos, like [MEMatte](https://github.com/linyiheng123/MEMatte).
