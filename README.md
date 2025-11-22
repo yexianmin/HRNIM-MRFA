@@ -5,7 +5,7 @@
 pip3 install -r requirements.txt
 ~~~
 
-The model is trained on Composition-1K train dataset, and tested on Transparent-460 and UHR-395 test dataset. Weight link [Google Drive](https://drive.google.com/file/d/1AFZSkaKjkVDM7Sn9B-fZiju3YqWKgJkO/view?usp=sharing)
+The model is trained on Composition-1K train dataset, and tested on Transparent-460 and UHR-395 test dataset. Weight link [Google Drive](https://drive.google.com/file/d/1AFZSkaKjkVDM7Sn9B-fZiju3YqWKgJkO/view?usp=sharing).
 
 ### Transparent-460
 | Models | SAD | MSE | Grad | Conn |
